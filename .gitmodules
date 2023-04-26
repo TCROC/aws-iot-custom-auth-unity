@@ -1,0 +1,3 @@
+[submodule "mqttnet"]
+	path = mqttnet
+	url = https://github.com/dotnet/MQTTnet.git
